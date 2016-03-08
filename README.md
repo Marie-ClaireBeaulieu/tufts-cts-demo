@@ -67,3 +67,5 @@ supremum hunc natae miserandus defleo finem.
      - Feet
      - Syllables
      - Metrical Values
+
+> Note on URN for Poetic analysis: `urn:cts:ctsDemo:tufts:cle395.normal.poetry:3.1.1.1`. The first hexameter line starting on line 3 of the Diplomatic edition (3.1), the first metrical foot (3.1.1), the first syllable (3.1.1.1). 
