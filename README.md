@@ -26,8 +26,7 @@ This is a project in editing and analysis an inscription, demonstrating:
 1.  miserandus defleo finem.
 1.  Q(uintus) Core(llius) Fortis pat(er) f(aciendum) c(urauit).
 
-Source: [Hope and Despair in Roman Britain, Posted on August 10, 2013 by Peter Kruschwitz](https://blogs.reading.ac.uk/classics-at-reading/tag/latin-epigraphy/j)
-
+Source: [Hope and Despair in Roman Britain, Posted on August 10, 2013 by Peter Kruschwitz](https://blogs.reading.ac.uk/classics-at-reading/tag/latin-epigraphy/jhttps://blogs.reading.ac.uk/classics-at-reading/2013/08/10/hope-and-despair-in-roman-britain/)
 ## In translation:
 
 > To the divine Manes.
