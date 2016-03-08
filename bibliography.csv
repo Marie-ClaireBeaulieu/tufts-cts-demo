@@ -1,0 +1,9 @@
+Item,URN,Value,Label
+"Text-Group","urn:cts:ctsDemo:tufts:",,"Texts for Demonstrating CTS"
+"Work","urn:cts:ctsDemo:tufts.cle395",,"Carmina Latina Epigraphica 395, thanks to Peter Kruschwitz for publishing this inscription: https://blogs.reading.ac.uk/classics-at-reading/tag/latin-epigraphy/"
+"Language","urn:cts:ctsDemo:tufts.cle395","cts:lang 'lat'",,
+"Edition","urn:cts:ctsDemo:tufts.cle395.dipl:",,"Diplomatic Edition of Carmina Latina Epigraphica 395, from imagry at https://blogs.reading.ac.uk/classics-at-reading/tag/latin-epigraphy/"
+"Exemplar","urn:cts:ctsDemo:tufts.cle395.dipl.norm:",,"Normalized Syntax-tokens of Carmina Latina Epigraphica 395"
+"Promoted Exemplar","urn:cts:ctsDemo:tufts.cle395.normal:","cts:sameAs urn:cts:ctsDemo:tufts.cle395.dipl.norm:",,
+"Exemplar","urn:cts:ctsDemo:tufts.cle395.normal.poetry:",,"Hexameter Lines in Carmina Latina Epigraphica 395"
+"Exemplar","urn:cts:ctsDemo:tufts.cle395.normal.poeticAnalysis:",,"Hexameter Lines in Carmina Latina Epigraphica 395 analyzed for meter."
