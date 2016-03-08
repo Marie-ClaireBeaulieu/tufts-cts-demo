@@ -43,18 +43,23 @@ The central part of this inscription (lines 2–11 in the Latin) forms a poem co
 ````
  —  ⏑ ⏑ |— — | —   — | —  ⏑ ⏑|— ⏑⏑| — — 
 Secreti Manes, qui regna Acherusia Ditis
+     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:3.1
 
 —  ⏑ ⏑|—     — | —  ⏑  ⏑|—    —  | — ⏑ ⏑|—  — 
 incolitis, quos parua petunt post lumina uitae
+     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:4.1
 
 — ⏑ ⏑|—  ⏑ ⏑ |—   ⏑ ⏑|—  — | —  ⏑ ⏑ |—   — 
 exiguus cinis et simulacrum corporis umbra:
+     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:6.1
 
 —  — |—    —|—   ⏑ ⏑|—    —| —  ⏑  ⏑|—  —
 insontis gnatae genitor spe captus iniqua
+     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:8.1
 
  —  —|—   ⏑    ⏑|—   ⏑ ⏑|—  —  |—  ⏑⏑ |— —
-supremum hunc natae miserandus defleo finem.      
+supremum hunc natae miserandus defleo finem.    
+     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:10.1
 
 ````
 
@@ -68,4 +73,4 @@ supremum hunc natae miserandus defleo finem.
      - Syllables
      - Metrical Values
 
-> Note on URN for Poetic analysis: `urn:cts:ctsDemo:tufts:cle395.normal.poetry:3.1.1.1`. The first hexameter line starting on line 3 of the Diplomatic edition (3.1), the first metrical foot (3.1.1), the first syllable (3.1.1.1). 
+> Note on URNs for Poetic analysis: `urn:cts:ctsDemo:tufts:cle395.dipl.poetry:3.1.1.1`. The first hexameter line starting on line 3 of the Diplomatic edition (3.1); the first metrical foot of that line (“incoli…’) would be (3.1.1), and the first syllable of that foot (“in…”) would be (3.1.1.1).  The next hexameter is the first line to begin on line 4 of the diplomatic edition, so it is `urn:cts:ctsDemo:tufts:cle395.dipl.poetry:4.1`.
